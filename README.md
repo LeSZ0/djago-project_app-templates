@@ -21,7 +21,7 @@ Each template will generate a custom structure for your django project or new ap
 ```
 
 
-### New app template structure - THIS TEMPLATE WILL GENERATE AN API APP FOR DJANGO REST - (django_api_app.zip)
+### New app template structure - THIS TEMPLATE WILL GENERATE AN API APP FOR DJANGO REST - (django_rest_app.zip)
 ```
 | __init__.py
 | api ~> Apiviews, serializers and urls
