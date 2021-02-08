@@ -41,3 +41,7 @@ Each template will generate a custom structure for your django project or new ap
   | model.py
 | tests.py
 ```
+
+#### Para utilizar los templates
+- django-admin startproject --template=https://github.com/LeSZ0/django-templates/raw/main/django_project.zip
+- python manage.py startapp --template=https://github.com/LeSZ0/django-templates/raw/main/django_rest_app.zip
